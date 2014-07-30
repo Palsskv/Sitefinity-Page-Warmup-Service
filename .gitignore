@@ -1,0 +1,32 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.lic
+*.orig
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.dll
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+.builds
+*.dotCover
+
+## TODO: If you have NuGet Package Restore enabled, uncomment this
+#packages/
